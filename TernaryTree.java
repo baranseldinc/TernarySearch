@@ -1,6 +1,5 @@
 package ternarytree;
 
-import java.math.BigDecimal;
 
 public class TernaryTree {
     Node root;
